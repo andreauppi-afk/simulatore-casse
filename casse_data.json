@@ -1,0 +1,213 @@
+{
+  "last_update": "2026-10-26",
+  "source": "Decreto Direttoriale 16 ottobre 2026 (coeff. 2027-2028) + dati ADEPP / regolamenti Casse",
+  "coefficients_2027_2028": {
+    "57": 0.04153,
+    "58": 0.04254,
+    "59": 0.04361,
+    "60": 0.04475,
+    "61": 0.04596,
+    "62": 0.04725,
+    "63": 0.04863,
+    "64": 0.05009,
+    "65": 0.05166,
+    "66": 0.05334,
+    "67": 0.05514,
+    "68": 0.05707,
+    "69": 0.05914,
+    "70": 0.06139,
+    "71": 0.06382
+  },
+  "casse": {
+    "Cassa Forense (Avvocati)": {
+      "aliquota_soggettivo": 0.17,
+      "aliquota_integrativo": 0.04,
+      "eta_pensione": 70,
+      "tetto_reddituale": 131800,
+      "contributo_minimo_soggettivo": 2750,
+      "sostenibilita": 6.9,
+      "aliquota_volontaria_max": 0.10,
+      "note": "2026: soggettivo 17% (sale a 18% dal 2027). Età ordinaria 70 anni (o 65 con 35 anni). Integrativo 4%."
+    },
+    "CNPADC (Dottori Commercialisti)": {
+      "aliquota_soggettivo": 0.12,
+      "aliquota_integrativo": 0.04,
+      "eta_pensione": 68,
+      "tetto_reddituale": 206800,
+      "contributo_minimo_soggettivo": 3140,
+      "sostenibilita": 5.9,
+      "aliquota_volontaria_max": 1.0,
+      "note": "Aliquota scelta dal 12%. Età 68 (33 anni) o 70 (25 anni). Novità 2026: supplemento ogni 3 anni."
+    },
+    "Cassa Nazionale del Notariato (CNN)": {
+      "aliquota_soggettivo": 0.42,
+      "aliquota_integrativo": 0,
+      "eta_pensione": 67,
+      "tetto_reddituale": 999999,
+      "contributo_minimo_soggettivo": 0,
+      "sostenibilita": 1.9,
+      "aliquota_volontaria_max": 0,
+      "note": "Sistema speciale su onorari. Pensione a 67 con 30 anni o 75 con 20."
+    },
+    "CIPAG (Geometri)": {
+      "aliquota_soggettivo": 0.20,
+      "aliquota_integrativo": 0.05,
+      "eta_pensione": 67,
+      "tetto_reddituale": 120000,
+      "contributo_minimo_soggettivo": 4205,
+      "sostenibilita": 1.9,
+      "aliquota_volontaria_max": 0,
+      "note": "Pensione di vecchiaia a 67-70 anni a seconda del sistema."
+    },
+    "INARCASSA (Ingegneri e Architetti)": {
+      "aliquota_soggettivo": 0.145,
+      "aliquota_integrativo": 0.04,
+      "eta_pensione": 66.5,
+      "tetto_reddituale": 147300,
+      "contributo_minimo_soggettivo": 2785,
+      "sostenibilita": 3.6,
+      "aliquota_volontaria_max": 0.085,
+      "note": "2026: soggettivo 14,50%. Pensione di vecchiaia unificata a 66,5 anni con 35 anni."
+    },
+    "ENPAM (Medici e Odontoiatri)": {
+      "aliquota_soggettivo": 0.195,
+      "aliquota_integrativo": 0,
+      "eta_pensione": 68,
+      "tetto_reddituale": 150000,
+      "contributo_minimo_soggettivo": 0,
+      "sostenibilita": 2.1,
+      "aliquota_volontaria_max": 0,
+      "note": "Quota A fissa (scaglioni età) + Quota B 19,5% fino a 150.000€. Età orientativa 68 anni."
+    },
+    "ENPAV (Veterinari)": {
+      "aliquota_soggettivo": 0.185,
+      "aliquota_integrativo": 0.02,
+      "eta_pensione": 68,
+      "tetto_reddituale": 110000,
+      "contributo_minimo_soggettivo": 3543,
+      "sostenibilita": 2.5,
+      "aliquota_volontaria_max": 0.14,
+      "note": "Soggettivo ~18,5%. Età 68 con 35 anni. Integrativo 2% (sale a 3% dal 2027)."
+    },
+    "ENPAF (Farmacisti)": {
+      "aliquota_soggettivo": 0,
+      "aliquota_integrativo": 0,
+      "eta_pensione": 68.75,
+      "tetto_reddituale": 0,
+      "contributo_minimo_soggettivo": 5388,
+      "sostenibilita": 2.0,
+      "aliquota_volontaria_max": 0,
+      "note": "Contributo fisso. Età ~68 anni e 9 mesi con 30 anni."
+    },
+    "ENPACL (Consulenti del Lavoro)": {
+      "aliquota_soggettivo": 0.12,
+      "aliquota_integrativo": 0.04,
+      "eta_pensione": 70,
+      "tetto_reddituale": 122016,
+      "contributo_minimo_soggettivo": 2620,
+      "sostenibilita": 3.0,
+      "aliquota_volontaria_max": 0,
+      "note": "Soggettivo 12%. Età 70 con 5 anni."
+    },
+    "Cassa Ragionieri (Ragionieri e Periti Commerciali)": {
+      "aliquota_soggettivo": 0.15,
+      "aliquota_integrativo": 0.04,
+      "eta_pensione": 68,
+      "tetto_reddituale": 123886,
+      "contributo_minimo_soggettivo": 3771,
+      "sostenibilita": 1.85,
+      "aliquota_volontaria_max": 0.25,
+      "note": "Aliquota scelta 15-25%. Età 68 con 40 anni."
+    },
+    "INPGI (Giornalisti)": {
+      "aliquota_soggettivo": 0.12,
+      "aliquota_integrativo": 0.04,
+      "eta_pensione": 67,
+      "tetto_reddituale": 120000,
+      "contributo_minimo_soggettivo": 305,
+      "sostenibilita": 2.2,
+      "aliquota_volontaria_max": 0,
+      "note": "Soggettivo 12%. Integrativo 4%. Età ~67 con 20 anni."
+    },
+    "EPPI (Periti Industriali)": {
+      "aliquota_soggettivo": 0.18,
+      "aliquota_integrativo": 0.05,
+      "eta_pensione": 65,
+      "tetto_reddituale": 122000,
+      "contributo_minimo_soggettivo": 2392,
+      "sostenibilita": 2.0,
+      "aliquota_volontaria_max": 0.35,
+      "note": "Soggettivo 18% (fino a 35%). Integrativo 5%. Età 65 con 5 anni."
+    },
+    "ENPAP (Psicologi)": {
+      "aliquota_soggettivo": 0.10,
+      "aliquota_integrativo": 0.02,
+      "eta_pensione": 65,
+      "tetto_reddituale": 103000,
+      "contributo_minimo_soggettivo": 856,
+      "sostenibilita": 4.0,
+      "aliquota_volontaria_max": 0.30,
+      "note": "Soggettivo 10% (fino a 30%). Integrativo 2%. Età 65 con 5 anni."
+    },
+    "ENPAPI (Infermieri)": {
+      "aliquota_soggettivo": 0.16,
+      "aliquota_integrativo": 0.04,
+      "eta_pensione": 65,
+      "tetto_reddituale": 120000,
+      "contributo_minimo_soggettivo": 1600,
+      "sostenibilita": 2.5,
+      "aliquota_volontaria_max": 0.23,
+      "note": "Soggettivo 16% (fino a 23%). Integrativo 4%. Età 65 con 5 anni."
+    },
+    "ENPAB (Biologi)": {
+      "aliquota_soggettivo": 0.15,
+      "aliquota_integrativo": 0.04,
+      "eta_pensione": 65,
+      "tetto_reddituale": 120000,
+      "contributo_minimo_soggettivo": 1309,
+      "sostenibilita": 3.0,
+      "aliquota_volontaria_max": 0.36,
+      "note": "Soggettivo 15% (fino a 36%). Integrativo 4%. Età 65 con 5 anni."
+    },
+    "EPAP (Chimici, Fisici, Attuari, Agronomi, Forestali, Geologi)": {
+      "aliquota_soggettivo": 0.10,
+      "aliquota_integrativo": 0.04,
+      "eta_pensione": 65,
+      "tetto_reddituale": 120000,
+      "contributo_minimo_soggettivo": 739,
+      "sostenibilita": 3.5,
+      "aliquota_volontaria_max": 0.80,
+      "note": "Soggettivo 10% (supercontribuzione fino a 80%). Integrativo 4%. Età 65 con 5 anni."
+    },
+    "ENASARCO (Agenti e Rappresentanti)": {
+      "aliquota_soggettivo": 0.085,
+      "aliquota_integrativo": 0,
+      "eta_pensione": 67,
+      "tetto_reddituale": 45000,
+      "contributo_minimo_soggettivo": 515,
+      "sostenibilita": 2.8,
+      "aliquota_volontaria_max": 0,
+      "note": "Aliquota totale 17% (8,5% agente + 8,5% mandante). Età 67 con 20 anni + quota 92."
+    },
+    "ENPAIA (Agrotecnici e Periti Agrari)": {
+      "aliquota_soggettivo": 0.10,
+      "aliquota_integrativo": 0.04,
+      "eta_pensione": 65,
+      "tetto_reddituale": 120000,
+      "contributo_minimo_soggettivo": 600,
+      "sostenibilita": 3.2,
+      "aliquota_volontaria_max": 0.30,
+      "note": "Soggettivo dal 10%. Integrativo 4%. Età 65 con 5 anni."
+    },
+    "FASC (Agenti Spedizionieri e Corrieri)": {
+      "aliquota_soggettivo": 0.10,
+      "aliquota_integrativo": 0.04,
+      "eta_pensione": 67,
+      "tetto_reddituale": 100000,
+      "contributo_minimo_soggettivo": 500,
+      "sostenibilita": 2.0,
+      "aliquota_volontaria_max": 0,
+      "note": "Parametri indicativi. Verificare regolamento ufficiale."
+    }
+  }
+}
